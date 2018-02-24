@@ -12,7 +12,7 @@
 		}
 	],
 	"env": {
-		"UPSTREAM_SERVER": {
+		"UPSTREAM_SERVERs": {
 			"description": "URL of upstream server to which all requests should be proxied"
 		}
 	},
