@@ -14,6 +14,9 @@
 	"env": {
 		"UPSTREAM_SERVER": {
 			"description": "URL of upstream server to which all requests should be proxied"
+		},
+		"PORT": {
+			"description": "PORT of upstream server"
 		}
 	},
 	"stack": "cedar-14"
