@@ -16,7 +16,7 @@
 			"description": "URL of upstream server to which all requests should be proxied"
 		},
 		"PORT": {
-			"description": "PORT of upstream server"
+			"description": "PORT of Listen"
 		}
 	},
 	"stack": "cedar-14"
